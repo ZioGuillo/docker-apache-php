@@ -47,3 +47,5 @@ www
 _pycache_
 *.html
 *.htm
+.env
+logs
