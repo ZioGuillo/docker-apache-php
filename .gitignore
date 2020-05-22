@@ -49,3 +49,5 @@ _pycache_
 *.htm
 .env
 logs
+*.crt
+*.key
